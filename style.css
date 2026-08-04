@@ -5,3 +5,7 @@ body{
 h1{
     height: 100px;
 }
+
+div{
+    width: 100%;
+}
